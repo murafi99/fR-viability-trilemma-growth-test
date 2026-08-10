@@ -1,0 +1,5 @@
+condition,statement,physical_meaning
+N1,f'(R) > 0,No ghost
+N2,f''(R) >= 0,No Dolgov-Kawasaki tachyon
+N3,f(R) -> R - 2*Lambda as R -> infinity,GR recovery
+N4,0 < R*f''(R)/f'(R)|_R0 < 1,Stable late-time fixed point

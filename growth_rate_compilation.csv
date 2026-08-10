@@ -1,0 +1,9 @@
+survey,z_eff,fsigma8,sigma_eff,sigma_note,reference_numbers
+2M++/6dFGS+SDSS PV,0.02,0.338,0.027,symmetric,"[18-20]"
+6dFGS,0.067,0.423,0.055,symmetric,[21]
+DESI DR1 PV,0.07,0.4497,0.0548,symmetric,[22]
+SDSS DR7 MGS,0.15,0.49,0.15,upper (asymmetric +0.15/-0.14; upper used here),[23]
+BOSS LOWZ,0.25,0.471,0.024,symmetric,[24]
+eBOSS LRGxELG,0.70,0.43,0.05,symmetric,[25]
+eBOSS LRGxELG,0.845,0.30,0.08,symmetric,[25]
+eBOSS DR14 QSO,1.52,0.426,0.079,symmetric,[26]
